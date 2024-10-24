@@ -34,7 +34,7 @@ while True:
 ## Client
 
 ![image](https://github.com/user-attachments/assets/c64b4f21-b0e8-4c13-8b51-4aa2e4c7283c)
-
+<br><br>
 ## Server
 
 ![image](https://github.com/user-attachments/assets/e55f3341-b86f-4d1a-860c-e382f4ad3515)
